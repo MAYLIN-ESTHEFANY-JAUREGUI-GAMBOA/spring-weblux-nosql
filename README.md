@@ -229,4 +229,4 @@ Para verificar que los productos se guardan correctamente en MongoDB Atlas:
 - Asegúrate de configurar correctamente las credenciales de MongoDB Atlas
 - La base de datos debe llamarse `22_maylin_jauregui`
 - La collection debe llamarse `product`
-- El proyecto usa programación reactiva con WebFlux y MongoDB Reactive 
+- El proyecto usa programación reactiva con WebFlux y MongoDB Reactive
